@@ -74,4 +74,4 @@ npm start
 
 ## 📬 Contact
 
-Created by [Your Name] – feel free to reach out!
+Created by Ankur – feel free to reach out!
